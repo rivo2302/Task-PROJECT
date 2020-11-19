@@ -1,2 +1,2 @@
 # Task-PROJECT
-Un programme pour gérer les tâches de SESAME
+Un script qui génère les tâches quotidiennes dans au campuss du programme SESAME.
